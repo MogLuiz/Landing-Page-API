@@ -5,7 +5,7 @@ Landing Page API
 
 <p align="center">
    <a href="#computer-about">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Tecnologia</a>
+  <a href="#rocket-technologies">Tecnologias</a>
 </p>
 
 
